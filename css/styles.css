@@ -1,0 +1,13 @@
+body{
+    background: #FAF0E6;
+    font-family: "Open Sans", sans-serif;
+    color: #333;
+}
+.row.header{
+    background: #333;
+    padding: 3em 0;
+    color: #fff;
+}
+ul li{
+    list-style-type: none;
+}
